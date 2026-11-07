@@ -22,7 +22,7 @@ You need a Prism Launcher instance for Minecraft 26.2 with Fabric. If you're joi
 
 ## Afterwards
 
-Just press Play. When there's a new version, the small window shows for a moment while it downloads. Both players need the same version to play together, so if one of you was already in the game when a version came out, restart it.
+Just press Play. When there's a new version, the small window shows for a moment while it downloads. A version reaches everyone within 5 minutes of being released; start the game before then and you keep the one you had, until the next start. Both players need the same version to play together, so if one of you was already in the game when a version came out, restart it.
 
 If something goes wrong, the small window says what. To stop updating, untick **Custom commands**.
 
