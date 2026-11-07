@@ -7,5 +7,5 @@ metafile = true
 
 [[files]]
 file = "mods/officina.pw.toml"
-hash = "d2330716c60b93aeeb07ceadc29a41c9115e31ddb04b59099aee0b46dc475bc6"
+hash = "c760a07f98b3e63def12aa752b80fd313923dded4440ac43cc327cf9c3511f28"
 metafile = true
