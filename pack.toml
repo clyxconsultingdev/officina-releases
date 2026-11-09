@@ -1,12 +1,12 @@
 name = "Officina"
 author = "Clyx Consulting"
-version = "0.6.0"
+version = "0.6.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1cd8fb29d707fafa2ffcd31d6f720f8d48a3224bf39feed12fa873234cd2222e"
+hash = "c11abb8b7d1ce409710a94557c83957221aa2e6ca6bc67465881c53229c237db"
 
 [versions]
 minecraft = "26.2"
