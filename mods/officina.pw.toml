@@ -1,8 +1,8 @@
 name = "Officina"
-filename = "officina-0.9.0.jar"
+filename = "officina-0.9.1.jar"
 side = "both"
 
 [download]
-url = "https://github.com/clyxconsultingdev/officina-releases/releases/download/v0.9.0/officina-0.9.0.jar"
+url = "https://github.com/clyxconsultingdev/officina-releases/releases/download/v0.9.1/officina-0.9.1.jar"
 hash-format = "sha512"
-hash = "5ce9e1cdac991ce030acf26e2056c6fb036ae7275c58696e78d4efa914bd276dac462d419fa9760a6ebe139e35bb0fc4289be096d6f88c90cfdfc5f09e5b0bfd"
+hash = "aac646a02a4ea2a9a8ef307aea4af951fb3ef065ed148804798f64e4b80943af7809b406d2f59f9c2dc290ffe4e762199c416d7d5f859aaeb29ea166d1f73509"
